@@ -1,0 +1,14 @@
+train:
+  batch_size: 2 # 2 for BraTS, 8 for ACDC
+  epochs: 150
+  learning_rate: 1e-4
+  dataset_name: "BraTS" # "ACDC/BraTS"
+
+path:
+  data_path: "./dataset/"
+  checkpoint_path: "./checkpoints/"
+
+interpret:
+  patient_ids: ["BraTS2021_00002", "BraTS2021_00003", "BraTS2021_00009", "BraTS2021_00020", "BraTS2021_00021"]
+  acdc_patient_ids: ["patient005", "patient012", "patient028", "patient030", "patient055"]
+  model: "nnunet" # "unet/nnunet"

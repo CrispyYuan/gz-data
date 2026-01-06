@@ -1,0 +1,12 @@
+{
+    "patient_id": "patient028",
+    "frame": "patient028_frame09",
+    "target_class": 3,
+    "overlap_at_0.1": 0.1764346808195114,
+    "shap_values_shape": [
+        1,
+        128,
+        128
+    ],
+    "mean_abs_shap": 3.631412120578531e-05
+}

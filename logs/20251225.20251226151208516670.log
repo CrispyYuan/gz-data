@@ -1,0 +1,30 @@
+2025-12-25T10:58:03.363+08:00 [INFO] {021b8a5ef9558418b8705f522bada0cc} 配置文件未指定实例 ID，尝试从主机名解析
+2025-12-25T10:58:03.363+08:00 [INFO] {021b8a5ef9558418b8705f522bada0cc} 从主机名解析到实例 ID: 754990485186693
+2025-12-25T10:58:03.363+08:00 [DEBU] {021b8a5ef9558418b8705f522bada0cc} panel workspace:/gz-data/.gk-panel
+2025-12-25T10:58:03.363+08:00 [DEBU] {021b8a5ef9558418b8705f522bada0cc} 从打包后二进制文件读取配置...
+2025-12-25T10:58:03.377+08:00 [INFO] pid[127]: http server started listening on [:8000]
+2025-12-25T10:58:03.377+08:00 [INFO] openapi specification is serving at address: http://127.0.0.1:8000/api.json
+2025-12-25T10:58:11.979+08:00 [INFO] {b8b25a5ffb558418f094d6104d34fad2} 配置文件未指定实例 ID，尝试从主机名解析
+2025-12-25T10:58:11.980+08:00 [INFO] {b8b25a5ffb558418f094d6104d34fad2} 从主机名解析到实例 ID: 754990485186693
+2025-12-25T10:58:11.980+08:00 [DEBU] {b8b25a5ffb558418f094d6104d34fad2} panel workspace:/gz-data/.gk-panel
+2025-12-25T10:58:11.980+08:00 [DEBU] {b8b25a5ffb558418f094d6104d34fad2} 从打包后二进制文件读取配置...
+2025-12-25T10:58:11.992+08:00 [INFO] openapi specification is serving at address: http://127.0.0.1:8000/api.json
+2025-12-25T10:58:11.992+08:00 [INFO] pid[134]: http server started listening on [:8000]
+2025-12-25T13:31:01.814+08:00 [INFO] {3a9db564525e84186de77f451bbf9cba} 配置文件未指定实例 ID，尝试从主机名解析
+2025-12-25T13:31:01.815+08:00 [INFO] {3a9db564525e84186de77f451bbf9cba} 从主机名解析到实例 ID: 754990485186693
+2025-12-25T13:31:01.815+08:00 [DEBU] {3a9db564525e84186de77f451bbf9cba} panel workspace:/gz-data/.gk-panel
+2025-12-25T13:31:01.815+08:00 [DEBU] {3a9db564525e84186de77f451bbf9cba} 从打包后二进制文件读取配置...
+2025-12-25T13:31:01.829+08:00 [INFO] openapi specification is serving at address: http://127.0.0.1:8000/api.json
+2025-12-25T13:31:01.829+08:00 [INFO] pid[124]: http server started listening on [:8000]
+2025-12-25T13:44:58.793+08:00 [INFO] {a0aca844155f8418e4db571914d4e449} 配置文件未指定实例 ID，尝试从主机名解析
+2025-12-25T13:44:58.793+08:00 [INFO] {a0aca844155f8418e4db571914d4e449} 从主机名解析到实例 ID: 754990485186693
+2025-12-25T13:44:58.793+08:00 [DEBU] {a0aca844155f8418e4db571914d4e449} panel workspace:/gz-data/.gk-panel
+2025-12-25T13:44:58.793+08:00 [DEBU] {a0aca844155f8418e4db571914d4e449} 从打包后二进制文件读取配置...
+2025-12-25T13:44:58.805+08:00 [INFO] openapi specification is serving at address: http://127.0.0.1:8000/api.json
+2025-12-25T13:44:58.805+08:00 [INFO] pid[126]: http server started listening on [:8000]
+2025-12-25T15:12:08.130+08:00 [INFO] {a58f6fd1d6638418f080ed6256aef32b} 配置文件未指定实例 ID，尝试从主机名解析
+2025-12-25T15:12:08.131+08:00 [INFO] {a58f6fd1d6638418f080ed6256aef32b} 从主机名解析到实例 ID: 755740521256965
+2025-12-25T15:12:08.131+08:00 [DEBU] {a58f6fd1d6638418f080ed6256aef32b} panel workspace:/gz-data/.gk-panel
+2025-12-25T15:12:08.131+08:00 [DEBU] {a58f6fd1d6638418f080ed6256aef32b} 从打包后二进制文件读取配置...
+2025-12-25T15:12:08.143+08:00 [INFO] openapi specification is serving at address: http://127.0.0.1:8000/api.json
+2025-12-25T15:12:08.144+08:00 [INFO] pid[36]: http server started listening on [:8000]

@@ -1,0 +1,1 @@
+2025-12-26T15:12:08.521+08:00 [DEBU] {43855b7a6bb28418c824f55b946aeca1} [  1 ms] [default] [/gz-data/.gk-panel/panel.db] [rows:2  ] SELECT NAME FROM SQLITE_MASTER WHERE TYPE='table' ORDER BY NAME

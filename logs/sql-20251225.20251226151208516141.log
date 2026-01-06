@@ -1,0 +1,5 @@
+2025-12-25T10:58:03.369+08:00 [DEBU] {3dd2255ff9558418b9705f52fb1ef3de} [  2 ms] [default] [/gz-data/.gk-panel/panel.db] [rows:2  ] SELECT NAME FROM SQLITE_MASTER WHERE TYPE='table' ORDER BY NAME
+2025-12-25T10:58:11.986+08:00 [DEBU] {4138c360fb558418f194d6103b0e5e08} [  1 ms] [default] [/gz-data/.gk-panel/panel.db] [rows:2  ] SELECT NAME FROM SQLITE_MASTER WHERE TYPE='table' ORDER BY NAME
+2025-12-25T13:31:01.822+08:00 [DEBU] {c7669065525e84186ee77f45147c03f2} [  2 ms] [default] [/gz-data/.gk-panel/panel.db] [rows:2  ] SELECT NAME FROM SQLITE_MASTER WHERE TYPE='table' ORDER BY NAME
+2025-12-25T13:44:58.799+08:00 [DEBU] {ae624b45155f8418e5db57199882cfc7} [  1 ms] [default] [/gz-data/.gk-panel/panel.db] [rows:2  ] SELECT NAME FROM SQLITE_MASTER WHERE TYPE='table' ORDER BY NAME
+2025-12-25T15:12:08.137+08:00 [DEBU] {443527d2d6638418f180ed62da2b6a61} [  1 ms] [default] [/gz-data/.gk-panel/panel.db] [rows:2  ] SELECT NAME FROM SQLITE_MASTER WHERE TYPE='table' ORDER BY NAME

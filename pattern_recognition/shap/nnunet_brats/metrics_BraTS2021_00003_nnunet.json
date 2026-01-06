@@ -1,0 +1,12 @@
+{
+    "patient_id": "BraTS2021_00003",
+    "target_class": 3,
+    "overlap_at_0.1": 0.32081806659698486,
+    "shap_values_shape": [
+        4,
+        32,
+        32,
+        32
+    ],
+    "mean_abs_shap": 1.423304975777207e-06
+}

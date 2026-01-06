@@ -1,0 +1,23 @@
+2025-12-23T11:24:28.717+08:00 [DEBU] {f2e8a85a41ba8318b1e9f36a692b7281} [  1 ms] [default] [/gz-data/.gk-panel/panel.db] [rows:0  ] SELECT NAME FROM SQLITE_MASTER WHERE TYPE='table' ORDER BY NAME
+2025-12-23T11:24:28.719+08:00 [DEBU] {e573e25941ba8318b0e9f36abc645630} [  2 ms] [default] [/gz-data/.gk-panel/panel.db] [rows:0  ] create table main.task
+(
+    id           INTEGER not null constraint task_pk primary key autoincrement,
+    type         TEXT    not null,
+    task_id      TEXT    not null,
+    auth_id      TEXT    not null,
+    auth_info_id TEXT    not null,
+    storage_type TEXT    not null,
+    username     TEXT    not null,
+    src_path     TEXT    not null,
+    fid          TEXT    not null,
+    dst_path     TEXT    not null,
+    status       TEXT    not null,
+    message       TEXT    not null,
+    progress     INT     not null,
+    created_at   TEXT    not null,
+    updated_at   TEXT    not null,
+    deleted_at   TEXT
+);
+
+2025-12-23T21:48:32.963+08:00 [DEBU] {7cb79b854fdc83187ab24e0e66bfec71} [  2 ms] [default] [/gz-data/.gk-panel/panel.db] [rows:2  ] SELECT NAME FROM SQLITE_MASTER WHERE TYPE='table' ORDER BY NAME
+2025-12-23T22:49:56.364+08:00 [DEBU] {46097421a9df831833530149e0681962} [  1 ms] [default] [/gz-data/.gk-panel/panel.db] [rows:2  ] SELECT NAME FROM SQLITE_MASTER WHERE TYPE='table' ORDER BY NAME

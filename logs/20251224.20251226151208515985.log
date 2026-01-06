@@ -1,0 +1,15 @@
+2025-12-24T01:03:35.723+08:00 [ERRO] http: Accept error: accept tcp [::]:8000: accept4: too many open files in system; retrying in 5ms
+2025-12-24T01:03:46.222+08:00 [ERRO] http: Accept error: accept tcp [::]:8000: accept4: too many open files in system; retrying in 5ms
+2025-12-24T01:04:05.517+08:00 [ERRO] http: Accept error: accept tcp [::]:8000: accept4: too many open files in system; retrying in 5ms
+2025-12-24T10:27:59.042+08:00 [INFO] {18636db3c005841886106d012c9aaaa8} 配置文件未指定实例 ID，尝试从主机名解析
+2025-12-24T10:27:59.042+08:00 [INFO] {18636db3c005841886106d012c9aaaa8} 从主机名解析到实例 ID: 754990485186693
+2025-12-24T10:27:59.042+08:00 [DEBU] {18636db3c005841886106d012c9aaaa8} panel workspace:/gz-data/.gk-panel
+2025-12-24T10:27:59.043+08:00 [DEBU] {18636db3c005841886106d012c9aaaa8} 从打包后二进制文件读取配置...
+2025-12-24T10:27:59.060+08:00 [INFO] openapi specification is serving at address: http://127.0.0.1:8000/api.json
+2025-12-24T10:27:59.061+08:00 [INFO] pid[128]: http server started listening on [:8000]
+2025-12-24T19:24:26.248+08:00 [INFO] {a16c41de062384181bde9f4726c661f3} 配置文件未指定实例 ID，尝试从主机名解析
+2025-12-24T19:24:26.249+08:00 [INFO] {a16c41de062384181bde9f4726c661f3} 从主机名解析到实例 ID: 754990485186693
+2025-12-24T19:24:26.249+08:00 [DEBU] {a16c41de062384181bde9f4726c661f3} panel workspace:/gz-data/.gk-panel
+2025-12-24T19:24:26.249+08:00 [DEBU] {a16c41de062384181bde9f4726c661f3} 从打包后二进制文件读取配置...
+2025-12-24T19:24:26.263+08:00 [INFO] openapi specification is serving at address: http://127.0.0.1:8000/api.json
+2025-12-24T19:24:26.263+08:00 [INFO] pid[130]: http server started listening on [:8000]

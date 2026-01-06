@@ -1,0 +1,6 @@
+2026-01-06T12:16:05.078+08:00 [INFO] {a39a283a32098818b3788c740ad6cc6d} 配置文件未指定实例 ID，尝试从主机名解析
+2026-01-06T12:16:05.079+08:00 [INFO] {a39a283a32098818b3788c740ad6cc6d} 从主机名解析到实例 ID: 755740521256965
+2026-01-06T12:16:05.079+08:00 [DEBU] {a39a283a32098818b3788c740ad6cc6d} panel workspace:/gz-data/.gk-panel
+2026-01-06T12:16:05.079+08:00 [DEBU] {a39a283a32098818b3788c740ad6cc6d} 从打包后二进制文件读取配置...
+2026-01-06T12:16:05.092+08:00 [INFO] openapi specification is serving at address: http://127.0.0.1:8000/api.json
+2026-01-06T12:16:05.095+08:00 [INFO] pid[42]: http server started listening on [:8000]
